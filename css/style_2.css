@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    text-transform: capitalize;
+            font-family: 'Roboto', sans-serif;
+}
+
+.height {
+
+    height: 50vh;
+}
+.bg-smart {
+background-color: #24353F;
+}
+
+.text-blue {
+    color: rgb(23, 162, 184);
+
+}
+
+
+.parent{
+color: antiquewhite;
+}
+
+
+input:focus{
+    background-color: #24353F !important;
+}
